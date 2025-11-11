@@ -1,0 +1,46 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>SamRyshel</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>SamRyshel</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <CreateInPlace>true</CreateInPlace>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="SamRyshel.csproj" File="SamRyshel.csproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddDrinks.cs">AddDrinks.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddDrinks.Designer.cs">AddDrinks.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddDrinks.resx">AddDrinks.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddFood.cs">AddFood.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddFood.Designer.cs">AddFood.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddFood.resx">AddFood.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.cs">Form1.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.Designer.cs">Form1.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.resx">Form1.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Orders.cs">Orders.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Orders.Designer.cs">Orders.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Orders.resx">Orders.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ProcessOrder.cs">ProcessOrder.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ProcessOrder.Designer.cs">ProcessOrder.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ProcessOrder.resx">ProcessOrder.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Products.cs">Products.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Products.Designer.cs">Products.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Products.resx">Products.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Program.cs">Program.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="RemoveDrinks.cs">RemoveDrinks.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="RemoveDrinks.Designer.cs">RemoveDrinks.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="RemoveDrinks.resx">RemoveDrinks.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="RemoveFood.cs">RemoveFood.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="RemoveFood.Designer.cs">RemoveFood.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="RemoveFood.resx">RemoveFood.resx</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
